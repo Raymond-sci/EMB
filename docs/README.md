@@ -8,8 +8,8 @@ Pytorch Implementation of Video Activity Localisation with Uncertainties in Temp
 
 ## Prerequisites
 1. Clone this repo: `git clone https://github.com/Raymond-sci/EMB.git`
-2. Download the pre-trained video features from [here](https://app.box.com/s/h0sxa5klco6qve5ahnz50ly2nksmuedw) and word embeddings from [here](http://nlp.stanford.edu/data/glove.840B.300d.zip), then put them in `data/features`.
-3. Set up experimental environments using `requirements.yml`
+2. Download the pre-trained video features from [here](https://app.box.com/s/h0sxa5klco6qve5ahnz50ly2nksmuedw) and word embeddings from [here](https://nlp.stanford.edu/data/glove.840B.300d.zip), then put them in `data/features`.
+3. Set up experimental environments using `environment.yml`
 
 ## Usage
 1. Download our trained models from [here](https://drive.google.com/drive/folders/13KjK5xZaDGtN6Dd_MFmUbC_Z4ot6NkIO?usp=sharing) and put them in `sessions/`, create the session folder if not existed.
